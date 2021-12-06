@@ -9,18 +9,22 @@ font-size: 4rem;
 line-height: 1.5;
 font-weight: bolder;
 color: #fff;
+text-align: center;
 }
 
-.small{
+h3{
   font-family: "Montserrat-Black";
 font-size: 1.5rem;
 line-height: 1;
 font-weight: bolder;
 color: #fff;
 text-align: center;
-margin-right: 30%;
 }
 
+
+.header-text{
+  padding-bottom: 3%;
+}
 
 .container-fluid {
   padding: 3% 15% 5%;
@@ -60,15 +64,14 @@ margin-right: 30%;
 
 /* Title Image */
 .title-image {
-  margin-top: 25px;
+  margin-top: 45px;
   width: 45%;
   position: absolute;
   right:30%;
 }
 
-.Access-button{
-  margin-left: 8px;
-  margin-top: 6px;
+.input-group{
+  padding-bottom: 8%;
 }
 
 /* Footer Section */
